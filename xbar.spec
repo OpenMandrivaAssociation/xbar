@@ -1,6 +1,6 @@
 Name:           xbar
 Version:        0.0.1
-Release:        1
+Release:        2
 Summary:        Tiny XCB information bar
 License:        MIT
 URL:            https://github.com/mcpcpc/xbar
